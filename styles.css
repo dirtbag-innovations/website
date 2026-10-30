@@ -269,6 +269,13 @@ h1 {
   font-size: 1rem;
 }
 
+.contact {
+  font-style: normal;
+  color: var(--text-soft);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
 @media (max-width: 640px) {
   .topbar {
     align-items: flex-start;
